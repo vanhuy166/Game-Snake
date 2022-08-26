@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+canvas {
+  box-shadow: black 20px 10px 50px;
+  margin-top: 50px;
+  width: 500px;
+  height: 500px;
+}
